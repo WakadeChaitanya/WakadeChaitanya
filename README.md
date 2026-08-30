@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**WakadeChaitanya/WakadeChaitanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am actively learning **Python** and building real-world projects to improve my coding skills. 
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![Python](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 Python Topics I Know
+- **Basics:** Variables, Data Types, and Loops
+- **Control Flow:** Functions and If-Else Statements
+- **Data Structures:** Lists and Dictionaries
