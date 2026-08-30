@@ -30,20 +30,6 @@ I'm a **Data Professional** interested in building practical solutions with data
 
 I work across the complete data lifecycle — from **raw datasets and data pipelines** to **machine learning models, analytics, and visualization**.
 
-```text
-Raw Data
-    ↓
-Clean & Transform
-    ↓
-Explore & Analyze
-    ↓
-Build Models
-    ↓
-Visualize Insights
-    ↓
-Make Better Decisions
-```
-
 I'm particularly interested in:
 
 * 📊 Data Analytics
