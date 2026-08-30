@@ -1,12 +1,12 @@
+<div align="center">
 
+<h1>⚡ CHAITANYA</h1>
 
-# 👋 Hi, I'm **Chaitanya**
+<h3>Data • Analytics • Machine Learning • Engineering</h3>
 
-### Data Professional • Data Science • Machine Learning • Data Engineering
-
-**Turning data into insights, models, and scalable solutions.**
-
-<br>
+<p>
+  <i>Turning data into insights, models, and intelligent solutions.</i>
+</p>
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
