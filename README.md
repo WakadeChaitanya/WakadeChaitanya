@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Chaitanya Wakade]! 👋
 
 I am a Data Professional skilled in Python, Big Data infrastructure, and interactive Data Visualization. I specialize in building data pipelines, analyzing complex datasets, and training machine learning models.
 
