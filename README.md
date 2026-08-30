@@ -230,20 +230,6 @@ Analytics
 
 ---
 
-📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WakadeChaitanya&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakadeChaitanya&layout=compact&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 # 📈 My Development Journey
 
 ```text
