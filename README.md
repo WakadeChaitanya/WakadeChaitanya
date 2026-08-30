@@ -234,11 +234,11 @@ Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=WakadeChaitanya&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WakadeChaitanya&layout=compact&hide_border=true" alt="Top Languages" />
 
 </div>
 
