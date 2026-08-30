@@ -8,17 +8,11 @@
   <i>Turning data into insights, models, and intelligent solutions.</i>
 </p>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<br>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Engineering-444444?style=for-the-badge" />
 
 </div>
 
