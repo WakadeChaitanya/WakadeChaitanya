@@ -20,7 +20,7 @@
 
 # 🧠 About Me
 
-I'm a **Data Professional** interested in building practical solutions with data.
+I'm a **Data and Ml Engineering Student** interested in building practical solutions with data.
 
 I work across the complete data lifecycle — from **raw datasets and data pipelines** to **machine learning models, analytics, and visualization**.
 
