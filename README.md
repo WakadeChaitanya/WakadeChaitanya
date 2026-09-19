@@ -1,289 +1,74 @@
 <div align="center">
 
-<h1>⚡ CHAITANYA</h1>
+# ⚡ CORE(DATA || ML || ENGINEER)
 
-<h3>Data • Analytics • Machine Learning • Engineering</h3>
+`[Data Lifecycle: Ingestion ➔ Transformation ➔ Modelling ➔ Analytics]`
 
-<p>
-  <i>Turning data into insights, models, and intelligent solutions.</i>
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
-
-<br>
-
-<img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Engineering-444444?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🧠 About Me
-
-I'm a **Data and Ml Engineering Student** interested in building practical solutions with data.
-
-I work across the complete data lifecycle — from **raw datasets and data pipelines** to **machine learning models, analytics, and visualization**.
-
-I'm particularly interested in:
-
-* 📊 Data Analytics
-* 🤖 Machine Learning
-* ⚡ Big Data
-* 🔧 Data Engineering
-* 📈 Data Visualization
-* 🧠 Predictive Analytics
+### 📂 SYSTEM OVERVIEW
+* **Role:** Data & ML Engineering Student
+* **Objective:** Building automated pipelines and reproducible predictive systems.
+* **Focus:** Data Architecture | Predictive Modelling | Distributed Computing
 
 ---
 
-# 🛠️ Technology Stack
-
-### 🐍 Programming & Data
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-</p>
-
-### 📊 Visualization & BI
-
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-</p>
-
-### 🤖 Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-</p>
-
-### ⚡ Big Data
-
-<p>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
-</p>
-
-### 🧰 Development Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
----
-
-# 🚀 What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔧 Data Engineering
-
-Building data pipelines that transform raw data into reliable datasets.
-
-**Focus**
-
-* ETL / ELT
-* Data transformation
-* Distributed processing
-* PySpark
-* Databricks
-
-</td>
-
-<td width="50%">
-
-### 🤖 Machine Learning
-
-Building predictive models that turn historical data into useful predictions.
-
-**Focus**
-
-* Classification
-* Regression
-* Feature Engineering
-* Model Evaluation
-* Scikit-Learn
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Data Analytics
-
-Finding patterns and insights hidden inside complex datasets.
-
-**Focus**
-
-* SQL
-* Python
-* Pandas
-* Exploratory Data Analysis
-* Statistical Analysis
-
-</td>
-
-<td width="50%">
-
-### 📈 Data Visualization
-
-Turning complex metrics into simple and understandable stories.
-
-**Focus**
-
-* Tableau
-* Matplotlib
-* Seaborn
-* Dashboards
-* Data Storytelling
-
-</td>
-</tr>
-</table>
-
----
-
-# ⭐ Featured Projects
-
-> I believe projects are more valuable than simply listing technologies.
-
-### 🔹 Project Name — Data Analytics
-
-**Problem:**
-Describe the real-world problem your project solves.
-
-**Solution:**
-Explain how you used Python, SQL and Pandas to analyze the data.
-
-**Tech:**
-`Python` `SQL` `Pandas` `NumPy` `Tableau`
-
-**Result:**
-Briefly describe the key insight or outcome.
-
-🔗 **[View Project](YOUR_PROJECT_LINK)**
-
----
-
-### 🔹 Project Name — Machine Learning
-
-**Problem:**
-Describe the prediction or classification problem.
-
-**Solution:**
-Built and evaluated a machine learning pipeline using Scikit-Learn.
-
-**Tech:**
-`Python` `Pandas` `Scikit-Learn` `NumPy`
-
-**Result:**
-Add your actual model performance here.
-
-🔗 **[View Project](YOUR_PROJECT_LINK)**
-
----
-
-### 🔹 Project Name — Big Data Pipeline
-
-Built a scalable data processing pipeline using PySpark and Databricks.
-
-**Pipeline**
-
+### 🛠️ TECH STACK matrix
 ```text
-Data Source
-     ↓
-Ingestion
-     ↓
-PySpark Processing
-     ↓
-Transformation
-     ↓
-Data Storage
-     ↓
-Analytics
-```
-
-**Tech:**
-`Python` `PySpark` `Databricks` `SQL`
-
-🔗 **[View Project](YOUR_PROJECT_LINK)**
-
----
-
-# 📈 My Development Journey
-
-```text
-Python
-  │
-  ├── Data Analysis
-  │      ├── Pandas
-  │      └── NumPy
-  │
-  ├── Visualization
-  │      ├── Matplotlib
-  │      ├── Seaborn
-  │      └── Tableau
-  │
-  ├── Machine Learning
-  │      └── Scikit-Learn
-  │
-  └── Big Data
-         ├── PySpark
-         └── Databricks
+┌─────────────────┬────────────────────────────────────────────────────────┐
+│ DOMAIN          │ TECHNOLOGIES / TOOLS / FRAMEWORKS                      │
+├─────────────────┼────────────────────────────────────────────────────────┤
+│ Compute & Data  │ Python • SQL • Pandas • NumPy                          │
+│ ML Pipeline     │ Scikit-Learn (Pipelines, Transformers, Ensembles)     │
+│ Big Data Engine │ PySpark • Databricks (Distributed ETL)                 │
+│ Visuals / BI    │ Matplotlib • Seaborn • Tableau                         │
+│ Version Control │ Git • GitHub                                           │
+└─────────────────┴────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🎯 Currently Learning
+### 🚀 PRODUCTION DEPLOYMENTS (FEATURED)
 
-* 🧠 Advanced Machine Learning
-* ⚡ Distributed Data Processing
-* 🏗️ Scalable Data Architecture
-* 📊 Advanced Analytics
-* 🤖 Applied AI
+#### 🔹 [Heart Disease Prediction Pipeline](YOUR_PROJECT_LINK)
+* **Problem:** Predicting clinical cardiovascular risk from messy, heterogeneous patient logs.
+* **Solution:** Engineered an end-to-end processing pipeline using `ColumnTransformer` (Standard Scaling + One-Hot Encoding) mapped to a `GradientBoostingClassifier`. Isolated script architecture to prevent data leakage.
+* **Stack:** `Python` `Scikit-Learn` `Pandas` `Joblib` `Matplotlib`
+* **Metrics:** Evaluated via Confusion Matrix plots to balance and minimize False Negatives.
 
----
-
-# 💼 What I Bring to a Team
-
-<table>
-<tr>
-<td align="center">📊<br><b>Analytical Thinking</b></td>
-<td align="center">🧠<br><b>Problem Solving</b></td>
-<td align="center">🤖<br><b>ML Mindset</b></td>
-<td align="center">⚡<br><b>Scalable Thinking</b></td>
-</tr>
-</table>
-
-I don't just want to **analyze data**.
-
-I want to understand the problem, build the right solution, and communicate the result clearly.
+#### 🔹 [Distributed Processing Engine](YOUR_PROJECT_LINK)
+* **Problem:** Processing and cleaning high-volume raw transactional records.
+* **Solution:** Built scalable pipeline architectures to ingest, transform, and aggregate distributed datasets.
+* **Stack:** `PySpark` `Databricks` `SQL`
 
 ---
 
-# 📫 Let's Connect
+### 📈 EXECUTION PATHWAY
+```text
+[Raw Ingestion] ➔ [Pandas / PySpark ETL] ➔ [Sklearn Pipeline] ➔ [Tableau Dashboard]
+```
 
-<div align="center">
+---
 
-### Interested in Data, Machine Learning or Engineering?
+### 🎯 NEXT EXECUTION TARGETS
+* Advanced Deep Learning Optimization
+* Production MLOps (Model Tracking & Registry)
+* Real-time Streaming Architectures
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+---
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+### 🌐 TERMINAL GATEWAY
+<div align="left">
 
-<br><br>
-
-**Thanks for visiting my profile! ⭐**
+[![LinkedIn](https://shields.io)](YOUR_LINKEDIN_URL)
+[![Email](https://shields.io)](mailto:YOUR_EMAIL)
 
 </div>
