@@ -1,58 +1,91 @@
 <div align="center">
-⚡ CORE(DATA || ML || ENGINEER)
+⚡ CORE(DATA • ML • ENGINEERING)
+Building data pipelines, predictive systems & scalable ML workflows.
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,git,github" /> <br> <img src="https://img.shields.io/badge/Data%20Engineering-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge" /> </div>
+🧠 SYSTEM PROFILE
+Role        → Data & ML Engineering Student
+Objective   → Automated & reproducible ML systems
+Focus       → Data Architecture • ML • Distributed Computing
+Workflow    → Ingest → Transform → Model → Analyze
 
-[Data Lifecycle: Ingestion ➔ Transformation ➔ Modelling ➔ Analytics]
+🛠️ TECH STACK
+💻 Data & Programming
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
-<p align="center"> <img src="https://img.shields.io/badge/Data-Engineering-blue" /> <img src="https://img.shields.io/badge/Machine-Learning-orange" /> <img src="https://img.shields.io/badge/Python-Developer-yellow" /> </p> </div>
-📂 SYSTEM OVERVIEW
+Pandas NumPy SQL
 
-Role: Data & ML Engineering Student
+🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=sklearn" />
 
-Objective: Building automated pipelines and reproducible predictive systems.
+Scikit-Learn Pipelines Transformers Ensembles
 
-Focus: Data Architecture | Predictive Modelling | Distributed Computing
+⚡ Big Data
+<img src="https://skillicons.dev/icons?i=spark,databricks" />
 
-🛠️ TECH STACK OPERATING SYSTEM
-Domain	Technology Stack Modules
-Compute & Logic	<img src="https://cdn.simpleicons.org/python" width="16" height="16" alt="Python"> Python    <img src="https://cdn.simpleicons.org/mysql" width="16" height="16" alt="SQL"> SQL    <img src="https://cdn.simpleicons.org/pandas" width="16" height="16" alt="Pandas"> Pandas    <img src="https://cdn.simpleicons.org/numpy" width="16" height="16" alt="NumPy"> NumPy
-ML Engineering	<img src="https://cdn.simpleicons.org/scikitlearn" width="16" height="16" alt="Scikit-Learn"> Scikit-Learn (Pipelines, Transformers, Ensembles)
-Big Data Engine	<img src="https://cdn.simpleicons.org/apachespark" width="16" height="16" alt="PySpark"> PySpark    <img src="https://cdn.simpleicons.org/databricks" width="16" height="16" alt="Databricks"> Databricks (Distributed ETL)
-Visual / BI	<img src="https://cdn.simpleicons.org/tableau" width="16" height="16" alt="Tableau"> Tableau    Matplotlib    Seaborn
-Infrastructure	<img src="https://cdn.simpleicons.org/git" width="16" height="16" alt="Git"> Git    <img src="https://cdn.simpleicons.org/github" width="16" height="16" alt="GitHub"> GitHub
-🚀 PRODUCTION DEPLOYMENTS (FEATURED)
-🔹 Heart Disease Prediction Pipeline
+PySpark Databricks Distributed ETL
 
-Problem: Predicting clinical cardiovascular risk from messy, heterogeneous patient logs.
+📊 Analytics
+<img src="https://skillicons.dev/icons?i=tableau" />
 
-Solution: Engineered an end-to-end processing pipeline using ColumnTransformer (Standard Scaling + One-Hot Encoding) mapped to a GradientBoostingClassifier. Isolated script architecture to prevent data leakage.
+Matplotlib Seaborn Dashboarding
 
-Stack: Python Scikit-Learn Pandas Joblib Matplotlib
+🔧 Engineering
+<img src="https://skillicons.dev/icons?i=git,github" />
 
-Metrics: Evaluated via Confusion Matrix plots to balance and minimize False Negatives.
+Git GitHub Joblib
 
-🔹 Distributed Processing Engine
+🚀 FEATURED SYSTEMS
+❤️ Heart Disease Prediction
 
-Problem: Processing and cleaning high-volume raw transactional records.
+End-to-end clinical risk prediction pipeline.
 
-Solution: Built scalable pipeline architectures to ingest, transform, and aggregate distributed datasets.
+Pipeline
 
-Stack: PySpark Databricks SQL
+Raw Data → Cleaning → ColumnTransformer → Gradient Boosting → Evaluation
 
-📈 EXECUTION PATHWAY
-[Raw Ingestion] ➔ [Pandas / PySpark ETL] ➔ [Sklearn Pipeline] ➔ [Tableau Dashboard]
+Stack: Python • Pandas • Scikit-Learn • Joblib
 
-🎯 NEXT EXECUTION TARGETS
+Focus: Leakage Prevention • Feature Engineering • False-Negative Analysis
 
-Advanced Deep Learning Optimization
+⚡ Distributed Processing Engine
 
-Production MLOps (Model Tracking & Registry)
+Scalable processing for high-volume transactional data.
 
-Real-time Streaming Architectures
+Pipeline
 
-🌐 TERMINAL GATEWAY
-<div align="left">
+Raw Records → PySpark ETL → Distributed Processing → Aggregation
 
+Stack: PySpark • Databricks • SQL
 
+Focus: Scalability • Transformation • Distributed Computing
 
+📈 ENGINEERING PIPELINE
+┌─────────────┐
+│ Raw Data    │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│ ETL         │  Pandas / PySpark
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│ ML Pipeline │  Scikit-Learn
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│ Analytics   │  Tableau / Python
+└─────────────┘
 
-</div>
+🎯 CURRENT TARGETS
+
+🧠 Advanced Deep Learning
+
+⚙️ Production MLOps
+
+📦 Model Tracking & Registry
+
+🌊 Real-Time Streaming
+
+<div align="center">
+⚡ BUILD → AUTOMATE → SCALE
+<img src="https://skillicons.dev/icons?i=python,pyspark,sklearn,git,github" /> </div>
