@@ -1,52 +1,60 @@
 <div align="center">
-⚡ DATA • ML • AI ENGINEERING
 
-Building data pipelines, machine learning systems & scalable AI workflows.
+# ⚡ DATA • ML • AI ENGINEERING
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,pyspark,docker,kafka" height="42"/> </div>
-🧠 ABOUT
+**Building intelligent systems from data to production.**
 
-Data • Machine Learning • AI Engineering
-Building reliable systems from raw data to production-ready intelligence.
-Focused on clean data pipelines, practical machine learning and scalable architectures.
-Working with Python, SQL, distributed processing and modern ML tooling.
-Interested in turning complex datasets into useful, measurable solutions.
-Learning through hands-on projects, experimentation and production-style workflows.
-Exploring AI systems, model deployment and intelligent applications.
-Build → Learn → Experiment → Deploy → Improve ⚡
+Data-driven engineer focused on scalable machine learning systems.
+Designing clean pipelines that transform raw data into useful intelligence.
+Building practical ML solutions with reproducible experimentation.
+Working across analytics, distributed processing and AI engineering.
+Exploring production-grade model serving and intelligent applications.
+Turning complex problems into measurable, maintainable solutions.
+Continuously learning through ambitious, hands-on engineering projects.
+**Build → Learn → Experiment → Deploy → Scale ⚡**
 
-🛠️ SKILLS
-<div align="center">
-					
-<img src="https://skillicons.dev/icons?i=python" height="40"/>	<img src="https://skillicons.dev/icons?i=mysql" height="40"/>	<img src="https://skillicons.dev/icons?i=pandas" height="40"/>	<img src="https://skillicons.dev/icons?i=numpy" height="40"/>	<img src="https://skillicons.dev/icons?i=jupyter" height="40"/>	<img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>	<img src="https://skillicons.dev/icons?i=git" height="40"/>	<img src="https://skillicons.dev/icons?i=github" height="40"/>	<img src="https://skillicons.dev/icons?i=flask" height="40"/>	<img src="https://skillicons.dev/icons?i=vscode" height="40"/>	<img src="https://skillicons.dev/icons?i=docker" height="40"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>	<img src="https://skillicons.dev/icons?i=kafka" height="40"/>	<img src="https://skillicons.dev/icons?i=anaconda" height="40"/>	<img src="https://skillicons.dev/icons?i=databricks" height="40"/>	<img src="https://cdn.simpleicons.org/joblib/1A1A1A" height="40"/>	<img src="https://cdn.simpleicons.org/apache/CB2133" height="40"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" height="40"/>	<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="40"/>	<img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="40"/>			
 </div>
-🚀 PROJECTS
-❤️ Heart Disease Prediction
 
-Pandas → Preprocessing → Gradient Boosting → Evaluation
+---
 
-Clinical prediction pipeline focused on clean preprocessing, leakage prevention and reliable model evaluation.
+## 🛠️ SKILLS
 
-🤖 AI-Powered Undefeatable Tic-Tac-Toe
-
-Game Logic → AI Strategy → Decision Making → Unbeatable Gameplay
-
-An AI-powered Tic-Tac-Toe engine designed around optimal decision-making and strategic gameplay.
-
-📊 ENGINEERING FLOW
 <div align="center">
 
-INGEST → TRANSFORM → ANALYZE → MODEL → SERVE → SCALE
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python" height="42"> | <img src="https://skillicons.dev/icons?i=mysql" height="42"> | <img src="https://skillicons.dev/icons?i=sklearn" height="42"> | <img src="https://skillicons.dev/icons?i=pytorch" height="42"> | <img src="https://skillicons.dev/icons?i=pandas" height="42"> | <img src="https://skillicons.dev/icons?i=numpy" height="42"> |
+| <img src="https://skillicons.dev/icons?i=jupyter" height="42"> | <img src="https://skillicons.dev/icons?i=pyspark" height="42"> | <img src="https://skillicons.dev/icons?i=databricks" height="42"> | <img src="https://skillicons.dev/icons?i=tableau" height="42"> | <img src="https://skillicons.dev/icons?i=matplotlib" height="42"> | <img src="https://skillicons.dev/icons?i=seaborn" height="42"> |
+| <img src="https://skillicons.dev/icons?i=git" height="42"> | <img src="https://skillicons.dev/icons?i=github" height="42"> | <img src="https://skillicons.dev/icons?i=flask" height="42"> | <img src="https://skillicons.dev/icons?i=vscode" height="42"> | <img src="https://skillicons.dev/icons?i=anaconda" height="42"> | <img src="https://skillicons.dev/icons?i=docker" height="42"> |
+| <img src="https://skillicons.dev/icons?i=aws" height="42"> | <img src="https://skillicons.dev/icons?i=gcp" height="42"> | <img src="https://skillicons.dev/icons?i=kubernetes" height="42"> | <img src="https://skillicons.dev/icons?i=kafka" height="42"> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/joblib.svg" height="42"> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/apache.svg" height="42"> |
 
-<br/> <img src="https://skillicons.dev/icons?i=python,git,docker,kubernetes" height="38"/> </div>
-🌐 CONNECT
-<div align="center"> <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github" height="32"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/"> <img src="https://skillicons.dev/icons?i=linkedin" height="32"/> </a>
+</div>
 
-<br><br>
+---
 
-⚡ Building • Learning • Deploying • Repeating ⚡
+## 🚀 PROJECTS
+
+### ❤️ Heart Disease Prediction
+`Pandas → Preprocessing → Gradient Boosting → Evaluation`  
+A reproducible clinical prediction pipeline focused on robust preprocessing,
+leakage prevention, feature transformation and reliable model evaluation.
+
+### 🤖 AI-Powered Undefeatable Tic-Tac-Toe Game
+`Game State → Search Strategy → Decision Engine → Optimal Play`  
+An AI-driven game engine designed around strategic decision-making,
+optimal moves and an intentionally unbeatable gameplay experience.
+
+### ⚡ Distributed ML Data Intelligence Platform
+`Ingestion → PySpark → Databricks → ML → Analytics`  
+A scalable data and machine learning architecture for processing
+high-volume datasets, generating features and delivering actionable insights.
+
+---
+
+<div align="center">
+
+### `INGEST → TRANSFORM → ANALYZE → MODEL → SERVE → SCALE`
+
+**⚡ Building systems. Solving problems. Engineering intelligence. ⚡**
 
 </div>
