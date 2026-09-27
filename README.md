@@ -21,15 +21,6 @@ Continuously learning through ambitious, hands-on engineering projects.
 
 <div align="center">
 
-| | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python" height="42"> | <img src="https://skillicons.dev/icons?i=mysql" height="42"> | <img src="https://skillicons.dev/icons?i=sklearn" height="42"> | <img src="https://skillicons.dev/icons?i=pytorch" height="42"> | <img src="https://skillicons.dev/icons?i=pandas" height="42"> | <img src="https://skillicons.dev/icons?i=numpy" height="42"> |
-| <img src="https://skillicons.dev/icons?i=jupyter" height="42"> | <img src="https://skillicons.dev/icons?i=pyspark" height="42"> | <img src="https://skillicons.dev/icons?i=databricks" height="42"> | <img src="https://skillicons.dev/icons?i=tableau" height="42"> | <img src="https://skillicons.dev/icons?i=matplotlib" height="42"> | <img src="https://skillicons.dev/icons?i=seaborn" height="42"> |
-| <img src="https://skillicons.dev/icons?i=git" height="42"> | <img src="https://skillicons.dev/icons?i=github" height="42"> | <img src="https://skillicons.dev/icons?i=flask" height="42"> | <img src="https://skillicons.dev/icons?i=vscode" height="42"> | <img src="https://skillicons.dev/icons?i=anaconda" height="42"> | <img src="https://skillicons.dev/icons?i=docker" height="42"> |
-| <img src="https://skillicons.dev/icons?i=aws" height="42"> | <img src="https://skillicons.dev/icons?i=gcp" height="42"> | <img src="https://skillicons.dev/icons?i=kubernetes" height="42"> | <img src="https://skillicons.dev/icons?i=kafka" height="42"> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/joblib.svg" height="42"> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/apache.svg" height="42"> |
-
-</div>
-
 ---
 
 ## 🚀 PROJECTS
