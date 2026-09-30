@@ -19,12 +19,12 @@ Continuously learning through ambitious, hands-on engineering projects.
 
 ## 🛠️ SKILLS
 
-
 | | | | |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev" width="40" height="40" alt="Python"/><br/>**Python** | <img src="https://shields.io" height="40" alt="Seaborn"/><br/>**Seaborn** | <img src="https://shields.io" height="40" alt="Matplotlib"/><br/>**Matplotlib** | <img src="https://skillicons.dev" width="40" height="40" alt="NumPy"/><br/>**NumPy** |
-| <img src="https://skillicons.dev" width="40" height="40" alt="Pandas"/><br/>**Pandas** | <img src="https://skillicons.dev" width="40" height="40" alt="Git"/><br/>**Git** | <img src="https://skillicons.devhub" width="40" height="40" alt="GitHub"/><br/>**GitHub** | <img src="https://skillicons.dev" width="40" height="40" alt="FastAPI"/><br/>**FastAPI** |
-| <img src="https://shields.io" height="40" alt="PySpark"/><br/>**PySpark** | <img src="https://skillicons.dev" width="40" height="40" alt="Scikit-Learn"/><br/>**Scikit-Learn** | <img src="https://skillicons.dev" width="40" height="40" alt="Tableau"/><br/>**Tableau** | <img src="https://skillicons.dev" width="40" height="40" alt="PyTorch"/><br/>**PyTorch** |
+| <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/><br/>**Python** | <img src="https://skillicons.dev/icons?i=seaborn" width="40" height="40" alt="Seaborn"/><br/>**Seaborn** | <img src="https://skillicons.dev/icons?i=matplotlib" width="40" height="40" alt="Matplotlib"/><br/>**Matplotlib** | <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy"/><br/>**NumPy** |
+| <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas"/><br/>**Pandas** | <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/><br/>**Git** | <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/><br/>**GitHub** | <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/><br/>**FastAPI** |
+| <img src="https://skillicons.dev/icons?i=apachespark" width="40" height="40" alt="PySpark"/><br/>**PySpark** | <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn"/><br/>**Scikit-Learn** | <img src="https://skillicons.dev/icons?i=tableau" width="40" height="40" alt="Tableau"/><br/>**Tableau** | <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"/><br/>**PyTorch** |
+
 
 
 ## 🚀 PROJECTS
