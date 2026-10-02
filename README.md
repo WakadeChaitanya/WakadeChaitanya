@@ -18,15 +18,31 @@ Continuously learning through ambitious, hands-on engineering projects.
 ---
 
 ## 🛠️ SKILLS
+
 <div align="center">
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/><br/>**Python** | <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="40" height="40" alt="Seaborn"/><br/>**Seaborn** | <img src="https://skillicons.dev/icons?i=matplotlib" width="40" height="40" alt="Matplotlib"/><br/>**Matplotlib** | <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy"/><br/>**NumPy** |
-| <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas"/><br/>**Pandas** | <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/><br/>**Git** | <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/><br/>**GitHub** | <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/><br/>**FastAPI** |
-| <img src="https://skillicons.dev/icons?i=apachespark" width="40" height="40" alt="PySpark"/><br/>**PySpark** | <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn"/><br/>**Scikit-Learn** | <img src="https://skillicons.dev/icons?i=tableau" width="40" height="40" alt="Tableau"/><br/>**Tableau** | <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"/><br/>**PyTorch** |
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 
 </div>
+
+---
 
 
 
