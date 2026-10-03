@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ DATA • ML • AI ENGINEERING
+# ⚡ DATA • ML ENGINEERING Student & Enthusiast
 
 **Building intelligent systems from data to production.**
 
