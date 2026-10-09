@@ -11,6 +11,7 @@ Working across analytics, distributed processing and AI engineering.
 Exploring production-grade model serving and intelligent applications.
 Turning complex problems into measurable, maintainable solutions.
 Continuously learning through ambitious, hands-on engineering projects.
+
 **Build → Learn → Experiment → Deploy → Scale ⚡**
 
 </div>
