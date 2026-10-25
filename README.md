@@ -38,7 +38,9 @@ reproducible experiments, and practical AI engineering.
 
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" height="46" alt="Git" title="Git" /></a>&nbsp;
 <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="46" height="46" alt="GitHub" title="GitHub" /></a>&nbsp;
-<a href="https://www.tableau.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" width="46" height="46" alt="Tableau" title="Tableau" /></a>
+
+<a href="https://www.tableau.com/"><img src="https://cdn.simpleicons.org/tableau/E97627" width="46" height="46" alt="Tableau" title="Tableau" /></a>
+
 <a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/96/power-bi.png" width="46" height="46" alt="Power BI" title="Power BI" /></a>
 
 </div>
